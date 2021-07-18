@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="Kasthuri tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Kasthuri-tv-new-logo.jpg" tvg-chno="1"
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Kasthuri-tv-new-logo.jpg" tvg-chno="1", Kasthuri tv
 http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
-#EXTINF:-1  Tv9 kannada  tvg-logo=https://static.wikia.nocookie.net/logopedia/images/c/cc/TV9_Karnataka.jpg/revision/latest/scale-to-width-down/220?cb=20190216160127"" tvg-chno="2"
+#EXTINF:-1  tvg-logo=https://static.wikia.nocookie.net/logopedia/images/c/cc/TV9_Karnataka.jpg/revision/latest/scale-to-width-down/220?cb=20190216160127"" tvg-chno="2", TV9 kannada
 https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
-#EXTINF:-1 News 18 Kannada  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/News18_Kannada_logo.jpeg/400px-News18_Kannada_logo.jpeg" tvg-chno="3"
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/News18_Kannada_logo.jpeg/400px-News18_Kannada_logo.jpeg" tvg-chno="3", News18 kannada
 https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 Public Music tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Public_Music_Kannada_Channel_Logo.jpg/200px-Public_Music_Kannada_Channel_Logo.jpg" tvg-chno="4" 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Public_Music_Kannada_Channel_Logo.jpg/200px-Public_Music_Kannada_Channel_Logo.jpg" tvg-chno="4", Public Music
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
-#EXTINF:-1 Suvarna News tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Suvarna_News_New_Logo.jpg/220px-Suvarna_News_New_Logo.jpg" tvg-chno="5"  
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Suvarna_News_New_Logo.jpg/220px-Suvarna_News_New_Logo.jpg" tvg-chno="5", Suvarna News 
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8
-#EXTINF:-1 Ayush tv tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Ayush_TV.jpeg/revision/latest/scale-to-width-down/200?cb=20191227132751" tvg-chno="6"
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Ayush_TV.jpeg/revision/latest/scale-to-width-down/200?cb=20191227132751" tvg-chno="6", Ayush Tv
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:-1 Public news kannada tvg-logo="https://publictv.in/wp-content/uploads/elementor/thumbs/Copy-of-Untitled-p3s4xlogzm6hng83g99c766qw4cyvw5lpo6xz4fpf2.png" tvg-chno="7"
+#EXTINF:-1  tvg-logo="https://publictv.in/wp-content/uploads/elementor/thumbs/Copy-of-Untitled-p3s4xlogzm6hng83g99c766qw4cyvw5lpo6xz4fpf2.png" tvg-chno="7", Public news kannada
 https://www.dailymotion.com/video/x7rs4mq|User-Agent=VLC
