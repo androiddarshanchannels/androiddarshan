@@ -13,3 +13,5 @@ https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/DD-Chandana-Logo.jpg" tvg-chno="8", DD Chandana
 https://m-c15-j2apps.s.llnwi.net:443/hls/0255.DDChandana.in.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1599px-Natgeologo.svg.png" tvg-chno="9", National Geographic HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
