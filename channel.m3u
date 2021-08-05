@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Kasthuri-tv-new-logo.jpg" tvg-chno="1", Kasthuri tv
 http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
-#EXTINF:-1  tvg-logo=https://static.wikia.nocookie.net/logopedia/images/c/cc/TV9_Karnataka.jpg/revision/latest/scale-to-width-down/220?cb=20190216160127"" tvg-chno="2", TV9 kannada
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/TV9_Kannada_new.jpg/revision/latest/scale-to-width-down/204?cb=20200114160028" tvg-chno="2", TV9 kannada
 https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/News18_Kannada_logo.jpeg/400px-News18_Kannada_logo.jpeg" tvg-chno="3", News18 kannada
 https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?sd=10&rebase=on
