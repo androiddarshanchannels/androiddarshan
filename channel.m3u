@@ -17,5 +17,7 @@ https://m-c15-j2apps.s.llnwi.net:443/hls/0255.DDChandana.in.m3u8
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Zee_Kannada.png/250px-Zee_Kannada.png" tvg-chno="11", Zee kannada HD
 https://d3t34m8y8rh0vb.cloudfront.net/preview/zeekannadahd/800.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.colorskannada.com/wp-content/uploads/2019/02/13125013/logo.png" tvg-chno="12", Colors Kannada HD
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/72084
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTKK08WS5jbx9Cm5irKCo_qNgu8IY8pxe6Q6M6rIQ=s88-c-k-c0x00ffffff-no-rj" tvg-chno="9", Digvijaya News Kannada
 https://vidcdn.vidgyor.com/dighvijay-origin/live1/playlist.m3u8
