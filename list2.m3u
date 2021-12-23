@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTKK08WS5jbx9Cm5irKCo_qNgu8IY8pxe6Q6M6rIQ=s88-c-k-c0x00ffffff-no-rj" tvg-chno="9", Digvijaya News Kannada
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTKK08WS5jbx9Cm5irKCo_qNgu8IY8pxe6Q6M6rIQ=s88-c-k-c0x00ffffff-no-rj" tvg-chno="1", Digvijaya News Kannada
 https://vidcdn.vidgyor.com/dighvijay-origin/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="PublickNewsKannada.in" tvg-name="Public News Kannada" tvg-country="IN" tvg-language="kannada" tvg-logo="https://publictv.in/" group-title="Lifestyle",Public News Kannada (720p)
+#EXTINF:-1 tvg-id="PublickNewsKannada.in" tvg-name="Public News Kannada" tvg-country="IN" tvg-language="kannada" tvg-chno="5"tvg-logo="https://publictv.in/" group-title="Lifestyle",Public News Kannada (720p)
 https://www.dailymotion.com/video/x84z2b9
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/TV9_Kannada_new.jpg/revision/latest/scale-to-width-down/204?cb=20200114160028" tvg-chno="2", TV9 kannada
+https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/News18_Kannada_logo.jpeg/400px-News18_Kannada_logo.jpeg" tvg-chno="3", News18 kannada
+https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Suvarna_News_New_Logo.jpg/220px-Suvarna_News_New_Logo.jpg" tvg-chno="4", Suvarna News 
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8
