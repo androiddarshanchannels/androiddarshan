@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PublickNewsKannada.in" tvg-name="Public News Kannada" tvg-country="IN" tvg-language="kannada" tvg-chno="5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Public_TV.jpg/revision/latest?cb=20190711071900",Public News Kannada (720p)
+#EXTINF:-1 tvg-id="PublickNewsKannada.in" tvg-name="Public News Kannada" tvg-country="IN" tvg-language="kannada" tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Public_TV.jpg/revision/latest?cb=20190711071900",Public News Kannada (720p)
 https://www.dailymotion.com/video/x84z2b9
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/TV9_Kannada_new.jpg/revision/latest/scale-to-width-down/204?cb=20200114160028" tvg-chno="2", TV9 kannada
 https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
